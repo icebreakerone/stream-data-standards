@@ -18,7 +18,7 @@ This decision provides for organisations and people external to Stream who want 
 
 ## Adapt and adopt the GOV.UK "Merge a Pull Request" process
 
-It was agreed that Stream would adapt and adopt the "Merge a Pull Request" process outlined at [https://docs.publishing.service.gov.uk/manual/merge-pr.html](https://docs.publishing.service.gov.uk/manual/merge-pr.html].
+It was agreed that Stream would adapt and adopt the "Merge a Pull Request" process outlined at [https://docs.publishing.service.gov.uk/manual/merge-pr.html](https://docs.publishing.service.gov.uk/manual/merge-pr.html).
 
 This process is already documented and provides a good starting point to build upon.
 
