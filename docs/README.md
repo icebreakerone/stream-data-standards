@@ -15,4 +15,4 @@ For more information on data standards contained in this repository please conta
 * [License for the Stream data standards documentation](license.md)
 * [Approval process for Stream data standards](approval-process.md)
 * [Updating process for Stream data standards](update-process.md)
-* [Base data standards for Stream](base-standards-used-in-stream.md)
+* [Base data standards for Stream](base-standards-used-in-Stream.md)
