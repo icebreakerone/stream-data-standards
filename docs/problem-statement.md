@@ -23,3 +23,5 @@ Several challenges were identified that fed into the problem statement:
 * There are currently no known minimum requirements around metadata and documentation for published datasets
 * There is no defined process for how we create consensus for data standards
 * No shared understanding of what data standards *are*
+
+There are data standards that already exist within other industries and UK Government, and wherever possible we are aiming to align ourselves with those data standards.
