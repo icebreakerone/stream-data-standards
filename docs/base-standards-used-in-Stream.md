@@ -15,5 +15,5 @@ It was agreed that the initial data standards we need to document and add to the
 * Data standards for use with Shapefile format datasets
   * The Shapefile format is described on the ESRI website in the [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) PDF document
 * Data standards for other geographical datasets
-  * A recommendation for which standard Stream will adopt for geographical data will be made shortly.
+  * The Lower Layer Super Output Area format is described in [Lower layer Super Output Area population density (National Statistics)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareapopulationdensity) 
  
