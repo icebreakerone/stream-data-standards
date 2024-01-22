@@ -2,7 +2,6 @@
 
 This repository contains standards for data and related resources for the Stream programme.
 
-* [Stream programme information from Icebreaker One](https://icebreakerone.org/stream/)
 * [Stream 2 funding announcement from Ofwat](https://waterinnovation.challenges.org/winners/stream-2/)
 
 **"Stream will unlock the potential of water data to benefit customers, society, and the environment. Stream will put in place technology and processes to remove the barriers to opening up and sharing water company data."**
