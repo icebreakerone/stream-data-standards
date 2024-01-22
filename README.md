@@ -12,7 +12,7 @@ The Stream data standards documentation is contained within the [/docs](docs/REA
 
 ## Data standards development
 
-There will be a full process for managing and updating the Stream data standards. This is in the process of being defined, and will be published here shortly.
+There is  a full process for managing and updating the Stream data standards in the documentation. 
 
 ## License
 
