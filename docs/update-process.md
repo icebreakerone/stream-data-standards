@@ -24,5 +24,5 @@ This process is already documented and provides a good starting point to build u
 
 ## Repository administrators
 
-It was agreed that we would request that the Stream Advisory Group responsible for technology would have the responsibility for managing who has responsibility for managing the Pull Requests and the repository administration.
+It was agreed that the Stream Advisory Group responsible for technology would have the authority to  name and manage those who are responsible for managing Pull Requests and repository administration.
 
