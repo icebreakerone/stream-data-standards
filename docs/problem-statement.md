@@ -1,11 +1,5 @@
 # Problem statement for the Stream data standards
 
-## Audit
-
-* v 1.0
-  * Date: 2023-11-30
-  * Approved at: Workstream Meeting 1
-
 ## Problem statement
 
 The problem that the Stream data standards workstream is trying to solve is:
