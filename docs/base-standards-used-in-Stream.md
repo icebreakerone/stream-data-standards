@@ -15,5 +15,4 @@ It was agreed that the initial data standards we need to document and add to the
 * Data standards for use with Shapefile format datasets
   * The Shapefile format is described on the ESRI website in the [ESRI Shapefile Technical Description](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) PDF document
 * Data standards for other geographical datasets
-  * The Lower Layer Super Output Area format is described in [Lower layer Super Output Area population density (National Statistics)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/lowersuperoutputareapopulationdensity) 
- 
+  * [UK Government Statistical Service (GSS) geography codes](https://en.wikipedia.org/wiki/GSS_coding_system). From the [ONS hierarchy of geography codes (July 2023)](https://geoportal.statistics.gov.uk/documents/defcc1095e68490fabc653bb622294b5/explore), we expect to use statistical geography and for England and Wales, the Lower Layer Super Output Area (LSOA) is the smallest level of detail we expect. 
