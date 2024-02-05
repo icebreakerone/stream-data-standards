@@ -2,6 +2,8 @@
 
 The base standards for Stream data standards were agreed by all participants at the third Stream Data Standards Workstream meeting on 15th January 2024.
 
+These standards currenty only specify the standards used within the initial Stream development work (the "MVP"). It is expected that the data standards documentation will be updated over time to include data standards used in delivering all future datasets via Stream.
+
 It was agreed that we would adapt the [Open standards for government data and technology](https://www.gov.uk/government/collections/open-standards-for-government-data-and-technology) for the base (foundational) standards in use by Stream.
 
 It was agreed that as part of the Stream data standards, we should provide justification for including, and where relevant, excluding various standards for use with Stream.
