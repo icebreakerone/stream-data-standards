@@ -20,7 +20,13 @@ This decision provides for organisations and people external to Stream who want 
 
 It was agreed that Stream would adapt and adopt the "Merge a Pull Request" process outlined at [https://docs.publishing.service.gov.uk/manual/merge-pr.html](https://docs.publishing.service.gov.uk/manual/merge-pr.html).
 
-This process is already documented and provides a good starting point to build upon.
+### Stream process for merging a pull request
+
+1. The main branch must be able to be released at any time.
+2. The change must have at least 1 review from repository administrators. The author is expected under most circumstances not to accept their own PR.
+3. If there are any changes needed for a request, the request should be rejected and a new request with the changes made.
+4. The GitHub review UI should be used to discuss changes, mark a PR as approved or requiring changes.
+5. The GitHub UI should be used to merge the PR.
 
 ## Repository administrators
 
