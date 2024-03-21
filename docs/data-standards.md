@@ -10,6 +10,10 @@ The governance for Stream data standards is managed by the Stream Data Standards
 
 ## Data Standards
 
+## Metadata standard
+
+The standard for Metadata is the [Gemini 2.3 standard](https://knowledge-base.inspire.ec.europa.eu/index_en) which is based on the [INSPIRE Metadata Directive](https://knowledge-base.inspire.ec.europa.eu/index_en). The ESRI platform can displaying Gemini 2.3 using the INSPIRE metadata standard built into the ESRI platform. To ensure that metadata using the INSPIRE standard is Gemini 2.3 compliant, please refer to this [Gemini 2.3 metedata guidance on the ArcGIS website](https://govportal.maps.arcgis.com/home/item.html?id=ad26f71f42e24d1eaf7fb3e347a049a9).
+
 ### CSV datasets
 
 The standard for CSV format datasets used for Stream data is described in [RFC 4180](https://datatracker.ietf.org/doc/html/rfc4180).
