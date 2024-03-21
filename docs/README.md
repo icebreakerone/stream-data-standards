@@ -4,8 +4,6 @@ This repository contains the in progress documentation for the Stream data stand
 
 It is currently being defined and developed through the Data Standards Workstream within the Stream Programme.
 
-The documentation is currently is being discussed at present, and not in a ready to use state.
-
 For more information on data standards contained in this repository please contact [water@icebreakerone.org](mailto:water@icebreakerone.org).
 
 ## Contents
