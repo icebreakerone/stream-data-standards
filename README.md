@@ -1,6 +1,6 @@
 # Stream data standards
 
-This repository contains standards for data and related resources for the Stream programme.
+This repository contains standards for data and governance information for the Stream programme.
 
 * [Stream 2 funding announcement from Ofwat](https://waterinnovation.challenges.org/winners/stream-2/)
 
@@ -8,11 +8,7 @@ This repository contains standards for data and related resources for the Stream
 
 ## Data standards documentation
 
-The Stream data standards documentation is contained within the [/docs](docs/README.md) folder of this repository.
-
-## Data standards development
-
-There is  a full process for managing and updating the Stream data standards in the documentation. 
+The Stream data standards documentation can be found in the [/docs](docs/README.md) folder of this repository.
 
 ## License
 
