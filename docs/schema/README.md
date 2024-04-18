@@ -6,10 +6,11 @@ This directory contains:
 ## Contents
 
 * Schema
-  * [Drinking Water Quality](drinking-water-quality.md)
   * [Domestic Consumption](domestic-consumption.md)
-  * [Reservoir Levels](raw-water-storage-reservoir-levels.md)
+  * [Drinking Water Quality](drinking-water-quality.md)
   * [Nightflow Data](nightflow-data.md)
+  * [Reservoir Levels](raw-water-storage-reservoir-levels.md)
+
 
 ## Governance
 
