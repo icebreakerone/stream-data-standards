@@ -17,9 +17,9 @@ This directory contains:
 The governance of the Stream data schema is managed by the Stream Data Standards Workstream. The governance documentation is contained in the following files:
 
 * Governance Documentation
-  * [Problem Statement](governance/problem-statement.md)
-  * [Document Repository](governance/document-repository.md)
-  * [Approval process for Stream data standards](governance/approval-process.md)
-  * [Updating process for Stream data standards](governance/update-process.md)
-  * [Base data standards for Stream](governance/base-standards-used-in-Stream.md)
-  * [Implementaiton of data standards for Stream](governance/implementation-of-standards.md)
+  * [Problem Statement](../governance/problem-statement.md)
+  * [Document Repository](../governance/document-repository.md)
+  * [Approval process for Stream data standards](../governance/approval-process.md)
+  * [Updating process for Stream data standards](../governance/update-process.md)
+  * [Base data standards for Stream](../governance/base-standards-used-in-Stream.md)
+  * [Implementaiton of data standards for Stream](../governance/implementation-of-standards.md)
