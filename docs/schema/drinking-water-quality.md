@@ -3,6 +3,7 @@
 
 | ATTRIBUTE     | DATA TYPE     | DESCRIPTION |
 | :---          |    :----      |      :----     |    
+| DATA SOURCE   | String        | The company that provided the data |
 | SAMPLE_ID     | String        | The identity of the sample  |
 | SAMPLE_DATE   | Date          | The date the sample was taken|
 | DETERMINAND   | String        | The determinand being measured  |
